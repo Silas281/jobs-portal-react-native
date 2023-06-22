@@ -3,11 +3,21 @@
 ## 📝 React Native App for developers to find jobs
 ### Screenshots
 
-![Home](./assests/images/home.jpg)
+add your screenshots here
 
-![Job Details](./assests/images/details.jpg)
-![Search](./assests/images/search.jpg)
-![Filter](./assests/images/category.jpg)
+Home Page
+![Home](./assets/images/home.jpg)
+
+Job Details Page
+
+![Job Details](./assets/images/details.jpg)
+
+Search Page
+![Search](./assets/images/search.jpg)
+
+Filter Page
+
+![Filter](./assets/images/category.jpg)
 
 
 
