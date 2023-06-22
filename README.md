@@ -5,22 +5,14 @@
 
 add your screenshots here
 
-Home Page
+<div style="display: flex; flex-direction: row; flex-wrap:wrap">
+  <img src="./assets/images/home.jpg" alt="IHome Page" style="width:300px;height:auto;">
+  <img src="./assets/images/details.jpg" alt="Job Details" style="width:300px;height:auto;">
+<img src="./assets/images/search.jpg" alt="Search Filter" style="width:300px;height:auto;">
 
-<img src="./assets/images/home.jpg" alt="Image Description" style="width:300px;height:auto;">
+<img src="./assets/images/category.jpg" alt="Job Type Page" style="width:300px;height:auto;">
+</div>
 
-Job Details Page
-
-
-<img src="./assets/images/details.jpg" alt="Image Description" style="width:300px;height:auto;">
-
-Search Page
-
-<img src="./assets/images/search.jpg" alt="Image Description" style="width:300px;height:auto;">
-
-Filter Page
-
-<img src="./assets/images/category.jpg" alt="Image Description" style="width:300px;height:auto;">
 
 
 
