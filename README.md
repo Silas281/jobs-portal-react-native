@@ -6,18 +6,21 @@
 add your screenshots here
 
 Home Page
-![Home](./assets/images/home.jpg)
+
+<img src="./assets/images/home.jpg" alt="Image Description" style="width:300px;height:auto;">
 
 Job Details Page
 
-![Job Details](./assets/images/details.jpg)
+
+<img src="./assets/images/details.jpg" alt="Image Description" style="width:300px;height:auto;">
 
 Search Page
-![Search](./assets/images/search.jpg)
+
+<img src="./assets/images/search.jpg" alt="Image Description" style="width:300px;height:auto;">
 
 Filter Page
 
-![Filter](./assets/images/category.jpg)
+<img src="./assets/images/category.jpg" alt="Image Description" style="width:300px;height:auto;">
 
 
 
